@@ -4,3 +4,5 @@ Screenshot of google colab :
 <img width="1918" height="1022" alt="Screenshot 2025-09-06 214204" src="https://github.com/user-attachments/assets/9e34bf5c-f3f7-4792-98fe-a8bbb1d4c17d" /> <img width="1919" height="1018" alt="Screenshot 2025-09-06 214241" src="https://github.com/user-attachments/assets/358e3384-be28-4899-9160-320686040ffe" /> <img width="1919" height="1018" alt="Screenshot 2025-09-06 214320" src="https://github.com/user-attachments/assets/4cc5c82b-a6dd-4c31-ad95-95518da5d0b2" /> <img width="1919" height="1012" alt="Screenshot 2025-09-06 214915" src="https://github.com/user-attachments/assets/35179427-bb90-4d3e-ab17-b74d04ec641c" />
 Demo Link :
 https://drive.google.com/file/d/1UPxLWcYiNwHy-WD63002-NCU02957pQn/view?usp=drive_link
+Project document 
+https://drive.google.com/file/d/14AOPZUpE5fk0t_bIrYpMZ-UXiP5fxkQ9/view?usp=drivesdk
